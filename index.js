@@ -1,4 +1,4 @@
-class KoreaScript {
+class KoreanScript {
     constructor() {
 
     }
@@ -44,5 +44,5 @@ class KoreaScript {
     }
 }
 
-const ks = new KoreaScript()
+const ks = new KoreanScript()
 ks.compile("['hello']\'")
