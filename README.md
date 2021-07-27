@@ -20,6 +20,9 @@
 | else  | 아니면  |
 | while  | 거짓일때까지  |
 | return  | 반환  |
+| function  | 함수  |
+| async  | 비동기  |
+| await  | 기다림  |
 
 - 예제
 ```
